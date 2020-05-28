@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">UAS 180030553 1</string>
+
+    <string name="link">Link Musik</string>
+    <string name="tambah">Tambah Musik</string>
+    <string name="edit">Edit Musik</string>
+    <string name="hapus">Hapus Musik</string>
+    <string name="bagikan">Bagikan Musik</string>
+    <string name="titik_dua">:</string>
+    <string name="simpan">Simpan</string>
+    <string name="id_musik">ID Musik</string>
+    <string name="judul_musik">Judul</string>
+    <string name="tgl_rilis">Perilisan</string>
+    <string name="penulis">Penulis</string>
+    <string name="penyanyi">Penyanyi</string>
+    <string name="agensi">Agensi</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="cover">Cover Musik</string>
+    <string name="data_musik">Data Musik</string>
+
+
+</resources>
